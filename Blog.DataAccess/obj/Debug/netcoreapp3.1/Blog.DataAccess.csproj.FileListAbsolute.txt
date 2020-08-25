@@ -1,0 +1,15 @@
+C:\Users\Lenovo\Desktop\BlogASP\Blog\Blog.DataAccess\bin\Debug\netcoreapp3.1\Blog.DataAccess.deps.json
+C:\Users\Lenovo\Desktop\BlogASP\Blog\Blog.DataAccess\bin\Debug\netcoreapp3.1\Blog.DataAccess.runtimeconfig.json
+C:\Users\Lenovo\Desktop\BlogASP\Blog\Blog.DataAccess\bin\Debug\netcoreapp3.1\Blog.DataAccess.runtimeconfig.dev.json
+C:\Users\Lenovo\Desktop\BlogASP\Blog\Blog.DataAccess\bin\Debug\netcoreapp3.1\Blog.DataAccess.dll
+C:\Users\Lenovo\Desktop\BlogASP\Blog\Blog.DataAccess\bin\Debug\netcoreapp3.1\Blog.DataAccess.pdb
+C:\Users\Lenovo\Desktop\BlogASP\Blog\Blog.DataAccess\bin\Debug\netcoreapp3.1\Blog.Domain.dll
+C:\Users\Lenovo\Desktop\BlogASP\Blog\Blog.DataAccess\bin\Debug\netcoreapp3.1\Blog.Domain.pdb
+C:\Users\Lenovo\Desktop\BlogASP\Blog\Blog.DataAccess\obj\Debug\netcoreapp3.1\Blog.DataAccess.csprojAssemblyReference.cache
+C:\Users\Lenovo\Desktop\BlogASP\Blog\Blog.DataAccess\obj\Debug\netcoreapp3.1\Blog.DataAccess.AssemblyInfoInputs.cache
+C:\Users\Lenovo\Desktop\BlogASP\Blog\Blog.DataAccess\obj\Debug\netcoreapp3.1\Blog.DataAccess.AssemblyInfo.cs
+C:\Users\Lenovo\Desktop\BlogASP\Blog\Blog.DataAccess\obj\Debug\netcoreapp3.1\Blog.DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\BlogASP\Blog\Blog.DataAccess\obj\Debug\netcoreapp3.1\Blog.DataAccess.csproj.CopyComplete
+C:\Users\Lenovo\Desktop\BlogASP\Blog\Blog.DataAccess\obj\Debug\netcoreapp3.1\Blog.DataAccess.dll
+C:\Users\Lenovo\Desktop\BlogASP\Blog\Blog.DataAccess\obj\Debug\netcoreapp3.1\Blog.DataAccess.pdb
+C:\Users\Lenovo\Desktop\BlogASP\Blog\Blog.DataAccess\obj\Debug\netcoreapp3.1\Blog.DataAccess.genruntimeconfig.cache

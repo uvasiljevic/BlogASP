@@ -1,0 +1,9 @@
+C:\Users\Lenovo\Desktop\BlogASP\Blog\Blog.Application\bin\Debug\netcoreapp3.1\Blog.Application.deps.json
+C:\Users\Lenovo\Desktop\BlogASP\Blog\Blog.Application\bin\Debug\netcoreapp3.1\Blog.Application.dll
+C:\Users\Lenovo\Desktop\BlogASP\Blog\Blog.Application\bin\Debug\netcoreapp3.1\Blog.Application.pdb
+C:\Users\Lenovo\Desktop\BlogASP\Blog\Blog.Application\obj\Debug\netcoreapp3.1\Blog.Application.csprojAssemblyReference.cache
+C:\Users\Lenovo\Desktop\BlogASP\Blog\Blog.Application\obj\Debug\netcoreapp3.1\Blog.Application.AssemblyInfoInputs.cache
+C:\Users\Lenovo\Desktop\BlogASP\Blog\Blog.Application\obj\Debug\netcoreapp3.1\Blog.Application.AssemblyInfo.cs
+C:\Users\Lenovo\Desktop\BlogASP\Blog\Blog.Application\obj\Debug\netcoreapp3.1\Blog.Application.dll
+C:\Users\Lenovo\Desktop\BlogASP\Blog\Blog.Application\obj\Debug\netcoreapp3.1\Blog.Application.pdb
+C:\Users\Lenovo\Desktop\BlogASP\Blog\Blog.Application\obj\Debug\netcoreapp3.1\Blog.Application.csproj.CoreCompileInputs.cache
